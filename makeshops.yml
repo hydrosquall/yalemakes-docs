@@ -41,8 +41,8 @@
     lead: "Artem Osherov"
     
 - makeshop:
-    title: "Public Spaces"
-    date: 2014-10-18
+    title: "Public Spaces / Vectorizing Graphics"
+    date: 2014-10-11
     lead: "Cameron Yick"
 
 - makeshop:
@@ -64,7 +64,7 @@
     thumb: "assets/img/makeshops/habitar.png"
     
 - makeshop:
-    title: "Architectural Sketching and Room Design"
+    title: "Architectural Sketching and Room Design / YEI Table"
     date: 2014-11-08
     lead: "Christina Zhang"
     
@@ -80,7 +80,7 @@
     
 - makeshop:
     title: "Letterpress Workshop"
-    date: 2014-11-22
+    date: 2014-12-05
     lead: "Lauren Hom"
     guest_site: "http://homsweethom.com/"
     thumb: "assets/img/makeshops/hom_letter.png"
@@ -103,8 +103,8 @@
     
 - makeshop: 
     title: "Web Animation with Google Web Designer"
-    date: 2015-02-21
-    lead: "Les Smith"
+    date: 2015-02-14
+    lead: "Megan Valentine"
     
 - makeshop: 
     title: "LetterPress Part II"
@@ -136,6 +136,7 @@
     title: "Lego Gummy Brickmaking"
     date: 2015-04-18
     lead: "Artem Osherov, Chanthia Ma"
+    gallery: "makeshops/gummy_bricks"
     
 - makeshop: 
     title: "Lego Gummy Brickmaking"
