@@ -1,0 +1,144 @@
+- makeshop:
+    title: "Template"
+    date: YYYY-MM-DD
+    lead: "NAME OR KEY (REFACTOR?)"
+    cycle: "Fall 2014 (REFACTOR TO CYCLE CODE)"
+    description: "what went down"
+    categories:
+        graphic: true
+        digital: true
+        physical: true
+        other: true
+    thumbnail:
+        link: "somewhere.com"
+        alt: "visually friendly"
+    photos:
+        url: "somewhere"
+        name: "Caption if necessary"
+    
+- makeshop:
+    title: "Launch"
+    date: 2014-09-13
+    lead: "Cameron Yick"
+    description: "Club launch and logo ideation"
+    categories:
+        graphic: true
+        digital: true
+        physical: true
+
+- makeshop:
+    title: "Wayfinding: BWxD 2014"
+    date: 2014-09-20
+    lead: "Cameron Yick"
+    description: "Presented at workshop together with the Yale, Brown, and RISD STEAM Chapters at the Better World by Design Conference"
+    categories:
+        graphic: true
+        physical: true
+        
+- makeshop:
+    title: "The Design and Structure of Poetry"
+    date: 2014-09-27
+    lead: "Artem Osherov"
+    
+- makeshop:
+    title: "Public Spaces"
+    date: 2014-10-18
+    lead: "Cameron Yick"
+
+- makeshop:
+    title: "Civic Art"
+    date: 2014-10-18
+    lead: "Artem Osherov"
+    gallery: "makeshops/sharon"
+    
+- makeshop:
+    title: "Pumpkin Carving"
+    date: 2014-10-25
+    lead: "Artem Osherov"
+    gallery: "makeshops/pumpkin"
+    
+- makeshop:
+    title: "YHACK"
+    date: 2014-11-01
+    lead: "Team"
+    thumb: "assets/img/makeshops/habitar.png"
+    
+- makeshop:
+    title: "Architectural Sketching and Room Design"
+    date: 2014-11-08
+    lead: "Christina Zhang"
+    
+- makeshop:
+    title: "Electronic Music / Beat Sampling"
+    date: 2014-11-15
+    lead: "Alexander Bailey"
+    
+- makeshop:
+    title: "Football Ticket Raffle"
+    date: 2014-11-22
+    lead: "Team"
+    
+- makeshop:
+    title: "Letterpress Workshop"
+    date: 2014-11-22
+    lead: "Lauren Hom"
+    guest_site: "http://homsweethom.com/"
+    thumb: "assets/img/makeshops/hom_letter.png"
+    gallery: "makeshops/handlettering"
+    
+- makeshop:
+    title: "Makemas Jingle: Happy Holidays!"
+    date: 2014-12-24
+    lead: "Kayla Tarlton"
+    
+- makeshop: 
+    title: "Branding and Color Theory"
+    date: 2014-01-24
+    lead: "Bianka Ukleja"
+    
+- makeshop: 
+    title: "LetterPress Part I"
+    date: 2015-02-07
+    lead: "Les Smith"
+    
+- makeshop: 
+    title: "Web Animation with Google Web Designer"
+    date: 2015-02-21
+    lead: "Les Smith"
+    
+- makeshop: 
+    title: "LetterPress Part II"
+    date: 2015-02-21
+    lead: "Les Smith"
+    
+- makeshop: 
+    title: "Contemporary Work-Spaces and Work-Places"
+    date: 2015-02-28
+    lead: "Work-Shop RI Team"
+    guest_site: "http://workshopri.com/"
+    
+- makeshop: 
+    title: "Jony Ive / Calder Mailing"
+    date: 2015-03-14
+    lead: "Cameron Yick"
+    
+- makeshop: 
+    title: "Can February March? No, but April May!"
+    date: 2015-03-21
+    lead: "Artem Osherov"
+    
+- makeshop: 
+    title: "Yale Data Hack"
+    date: 2015-03-28
+    lead: "Team"
+    
+- makeshop: 
+    title: "Lego Gummy Brickmaking"
+    date: 2015-04-18
+    lead: "Artem Osherov, Chanthia Ma"
+    
+- makeshop: 
+    title: "Lego Gummy Brickmaking"
+    date: 2015-05-13
+    lead: "Cameron Yick, Artem Osherov"
+    
