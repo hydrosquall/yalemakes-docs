@@ -150,6 +150,11 @@
     
 
 - makeshop: 
-    title: "Deconstructing Websites"
+    title: "Deconstructing Websites: Principles of Web Design"
     date: 2015-09-11
     lead: "Cameron Yick"
+
+- makeshop: 
+    title: "Rules of Gorgeous UI"
+    date: 2015-10-10
+    lead: "Erik Kennedy"
