@@ -1,7 +1,10 @@
 #YaleMakes
-##Student-driven design
+
+![Group Logo](assets/img/logo.png)
 
 We run workshops, host speakers, and support student projects at the intersection of technology and the arts.
+
+We believe that learning about how design works in different disciplines can help people uncover creative solutions and have fun!
 
 ### Core Team
 
@@ -36,3 +39,7 @@ Reverse chronological
 - Alexander Bailey (Yale College 2017)
 
 You could be next! 
+
+### Attributions
+- _YM Logo designed by Megan Valentine_
+- _Splat Logo designed by Christina Chi Zhang_
