@@ -3,40 +3,18 @@
 
 We run workshops, host speakers, and support student projects at the intersection of technology and the arts.
 
-### Setup
-- Dropbox / Google Drive
-- Google Chrome
-- Visual Studio Code OR Sublime Text 3 OR Atom
-    - Associated Plugins
-- Github Account / Git Client
+### Core Team
 
-###Tools used
-- Asana / Pipefy
-- bit.ly
-- snag.gy
-- PicMonkey / Polarr
-- [Strip Whitespace](http://tabstospaces.com/)
-- IFTTT
-- Numerous
-- SkyFonts
-- InkScape
-- Greenshot
-- TinyPNG
+- Founding Team
+    - Megan Valentine (Computing and the Arts)
+    - Artem Osherov (Molecular, Cellular, Developmental Biology / English)
+    - Cameron Yick (Electrical Engineering/Computer Science)
 
-###Pipeline
-- TBD
-- reachout bootup / yhack / hackyale
+- Incoming Team 
+    - Sarah Sukin
+    - Julia Ma
 
-###Collaborators
-- Yale CEID
-- Yale Entreprenurial Society Magazine
-- Yale Entreprenurial Institute
-- University Art Gallery
-- STEAM
-- Vision / D@Y
-- Yale Data Science
-
-###Invited Speakers 
+### Invited Speakers 
 
 Reverse chronological
 
@@ -57,4 +35,4 @@ Reverse chronological
 - Lauren Hom (Homsweethom Design)
 - Alexander Bailey (Yale College 2017)
 
-You could be next!
+You could be next! 
