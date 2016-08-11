@@ -1,3 +1,4 @@
+# Todo: Parse descriptions as markdown rather than plaintext
 - makeshop:
     title: "Template"
     date: YYYY-MM-DD
@@ -20,7 +21,7 @@
     title: "Launch"
     date: 2014-09-13
     lead: "Cameron Yick"
-    description: "Club launch and logo ideation"
+    description: "Club launch and logo ideation, sponsored by Margarita Mooney and Calhoun Happiness Project"
     categories:
         graphic: true
         digital: true
@@ -30,7 +31,8 @@
     title: "Wayfinding: BWxD 2014"
     date: 2014-09-20
     lead: "Cameron Yick"
-    description: "Presented at workshop together with the Yale, Brown, and RISD STEAM Chapters at the Better World by Design Conference"
+    cosponsors: "STEAM"
+    description: "Presented at workshop together with the Yale, Brown, and RISD STEAM Chapters at the Better World by Design Conference. With Anna Chase."
     categories:
         graphic: true
         physical: true
@@ -41,7 +43,7 @@
     lead: "Artem Osherov"
     
 - makeshop:
-    title: "RAW Data Visualization"
+    title: "Data Visualization, featuring Density RAW"
     date: 2014-10-04
     lead: "Megan Valentine"
     
@@ -136,6 +138,7 @@
     title: "Yale Data Hack"
     date: 2015-03-28
     lead: "Team"
+    description: "Chris Datsikas, Megan Valentine, Cameron Yick"
     
 - makeshop: 
     title: "Lego Gummy Brickmaking"
@@ -144,17 +147,73 @@
     gallery: "makeshops/gummy_bricks"
     
 - makeshop: 
-    title: "Lego Gummy Brickmaking"
+    title: "404 Email Not Found"
     date: 2015-05-13
     lead: "Cameron Yick, Artem Osherov"
     
-
 - makeshop: 
     title: "Deconstructing Websites: Principles of Web Design"
     date: 2015-09-11
     lead: "Cameron Yick"
+    description: "How do web designers learn new techniques? Learn some basic tools to inspect websites and identify key design patterns in web design. Geared towards novices as well as non-technical people who may be overseeing web design projects. Project code is available on Github under @hydrosquall"
+
+- makeshop: 
+    title: "Beautiful Poster Design"
+    date: 2015-10-03
+    lead: "Paul Chung, Nicole Clark"
+    cosponsors: "Design @ Yale, Yale Entrepreneur Magazine"
+    description: "In one quick hour, we'll survey key graphic design principles, examine case studies of effective designs, and rapidly design + critique some demo posters."
 
 - makeshop: 
     title: "Rules of Gorgeous UI"
     date: 2015-10-10
     lead: "Erik Kennedy"
+    description: "Copy Poster from YaleMakes Email"
+    thumb: true
+
+- makeshop: 
+    title: "Gallery+ Text: Talking with the Paintings @ Yale University Art Gallery"
+    date: 2015-11-19
+    lead: "Cameron Yick"
+    description: "In wanted to explore how the museum experience changes if people could talk directly to the works of art in the museum. The result was an app built using the Python Flask Framework, Google Spreadsheets, and the Twilio API. The descriptions were written by Yale University Art Gallery Tour Guides, which includes some of YaleMakes' members. More details are available here."
+
+- makeshop: 
+    title: "Designing for Deliciousness: Applying Startup Thinking to Food w/ Junzi Kitchen"
+    date: 2015-12-11
+    lead: "Yong Zhao"
+    description: "Junzi Kitchen is the newest restaurant on Broadway, featuring Chinese "Chun-bing" wraps. Part of the reason for the restaurant's rave reviews on Yelp is that startup and design thinking are used to plan every part of the restaurant, from a weekly "test kitchen" to why serve "Chun Bing" instead of rice bowls. CEO and "Bing Master" of Junzi Kitchen, Yong Zhao FES '15, will be speaking about how he and his team brought Junzi Kitchen to life
+
+- makeshop: 
+    title: "Making Map Visualizations"
+    date: 2016-01-30
+    lead: "Max Galka"
+    cosponsors: "Yale Data Science"
+    description: "Max's data-driven graphics have been featured in the Washington Post, Time, the Guardian, and Huffington Post. He publishes data visualizations with the aim of provoking thought, and enjoys teaching people how to do the same! He will lead a hands-on workshop covering the essentials of GIS (geographic information systems), and walk through the complete process of obtaining and using public data to create thematic maps. You can find Max on Twitter as @galka_max and online at metrocosm."
+    thumb: true
+
+- makeshop: 
+    title: "Schwarzman Ideathon 2016"
+    date: 2016-02-20
+    lead: "Chris Datsikas, Cameron Yick"
+    description: "In a field of 60 student groups competing across 3 categories, the YaleMakes team emerged as the 2nd overall runner-up with a proposal to build a playground in the Schwarzman Center. We believe that physical play can serve as a foundation for both physical and mental wellness, and were excited to find that President Salovey and the rest of the judging panel agreed!"
+
+- makeshop: 
+    title: "Sticks & Stones: Designing Playgrounds with Spencer Luckey"
+    date: 2016-04-16
+    lead: "Spencer Luckey"
+    description: "In this workshop, you will explore the relationships between thinking and making through drawing and model making. Using sticks and stones, participants will make a composition and then some drawings of the composition. Participants will become familiar with representation of architectural/sculptural concepts, as well as the potential for feedback loops where processes can inform one another and lead to enlightenment. Spencer will also present about his process and intentions as an artist and designer. (Add Spencer's Bio too)"
+    thumb: true
+
+- makeshop: 
+    title: "The Psychology of Design: Case Studies and Practices"
+    date: 2016-04-22
+    lead: "Rebecca Ronsivalle, Head of Strategy at Mucca Design"
+    description: "You'll dive into the essential role of psychology and maintaining positive imagery in practicing design, while getting a chance to hear about successful case studies from a few of Mucca's many clients. This is a great opportunity for anyone who may be interested in graphic design, business strategy, and/or psychology!"
+    thumb: true
+
+- makeshop: 
+    title: "Yummy Gummy Lego Building"
+    date: 2016-04-25
+    lead: "Team"
+    description: "Round 2 of Lego Gummy Mold-Making for the Bulldog Days Events- link to gallery!"
+    thumb: true
